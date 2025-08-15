@@ -8,22 +8,22 @@ import silder4 from "../../../public/headerslider4.jpg";
 
 const slides = [
   {
-    image: { silder1 },
+    image:  silder1 ,
     title: "#KaffePote",
     subtitle: "#BunnySoCute",
   },
   {
-    image: { silder2 },
+    image:  silder2 ,
     title: "#KaffePote",
     subtitle: "#BunnyLife",
   },
   {
-    image: { silder3 },
+    image:  silder3 ,
     title: "#KaffePote",
     subtitle: "#BunnyLovers",
   },
   {
-    image: { silder4 },
+    image:  silder4 ,
     title: "#KaffePote",
     subtitle: "#MyBunny",
   },

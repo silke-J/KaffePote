@@ -1,10 +1,11 @@
 import { NavLink } from "react-router-dom";
 import styles from "./Header.module.css";
+import headerImg from "../../../public/header.png";
 
 const Header = () => {
   return (
     <section className={styles.headerbackground}>
-      <img src="../../../public/header.png" alt="" />
+      <img src={headerImg} alt="" />
 
       <h1>KaffePote</h1>
       <h2>

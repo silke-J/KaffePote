@@ -1,0 +1,35 @@
+.Animal {
+  margin-block: 50px;
+  justify-items: center;
+
+  h1 {
+    font-size: 40px;
+    color: #ff8c42;
+    margin-bottom: 20px;
+  }
+  h3 {
+    font-size: 15px;
+    width: 700px;
+    text-align: left;
+    margin-bottom: 40px;
+  }
+
+  .InfoAnimal {
+    display: flex;
+    flex-wrap: wrap;
+    gap: 30px;
+    justify-content: center;
+
+    .card {
+      margin-bottom: 30px;
+      h2 {
+        color: #ff8c42;
+      }
+    }
+    img {
+      width: 300px;
+      height: 400px;
+      object-fit: cover;
+    }
+  }
+}

@@ -1,0 +1,21 @@
+.footer-background {
+  background: #F4E5CE;
+  padding-block: 25px;
+  color: 907055;
+  border-top: 2px solid #907055;
+}
+.footer-flex{
+  display: flex;
+  justify-content: space-around;
+  font-size: 16px;
+}
+
+.Copyright{
+
+ a {
+  color: #FF8C42;
+  font-weight: bold;
+}
+}
+
+

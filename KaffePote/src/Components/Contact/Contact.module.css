@@ -1,0 +1,63 @@
+.contactInfo{
+  justify-items: left;
+  margin-left: 60px;
+  text-align: left;
+  
+
+
+  li{
+    list-style: none;
+  }
+    h1{
+        font-size: 30px;
+        margin-bottom: 10px;
+    }
+
+    .link{
+        color: #FF8C42;
+        text-decoration: underline; 
+    }
+
+    .Adresse{
+        padding-block: 20px;
+        width: 200px;
+    }
+
+    .ÅbningTider{
+        background-color: #FF8C42;
+        padding-block: 20px;
+        border-radius: 30px;
+        color: white;
+        width: 230px;
+        text-align: center;
+        li{
+            line-height: 30px;
+           
+        }
+    }
+}
+.Contact{
+    display: flex;
+    justify-content: center;
+    justify-items: center;
+    padding-block: 90px;
+   
+    img{
+        width: 60% ;
+   
+       
+    }
+}
+
+ @media (max-width: 767px) { 
+    .Contact{
+        margin-left: 20px;
+        margin-block: 60px;
+        img{
+            display: none;
+        }
+    }
+    .contactInfo{
+        margin-left: 0px;}
+} 
+

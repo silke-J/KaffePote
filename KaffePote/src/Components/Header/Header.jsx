@@ -4,7 +4,7 @@ import headerImg from "../../../public/header.png";
 
 const Header = () => {
   return (
-    <section className={styles.headerbackground}>
+    <section className={styles.headerbackground}> 
       <img src={headerImg} alt="" />
 
       <h1>KaffePote</h1>

@@ -1,5 +1,5 @@
 import styles from "./Contact.module.css";
-import contact from "../../../public/contact.png";
+import contact from "../../assets/contact.png";
 
 const ContactInfo = () => {
   return (

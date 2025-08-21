@@ -1,7 +1,7 @@
 import { useState } from "react";
 import { GiHamburgerMenu } from "react-icons/gi";
 import { IoClose } from "react-icons/io5";
-import logo from "../../public/logo.png";
+import logo from "../assets/logo.png";
 import { useRef } from "react";
 import { NavLink } from "react-router-dom";
 

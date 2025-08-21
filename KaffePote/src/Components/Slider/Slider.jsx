@@ -1,10 +1,10 @@
 import React, { useState } from "react";
 import { ChevronLeft, ChevronRight } from "lucide-react";
 import styles from "./Slider.module.css";
-import silder2 from "../../../public/headerslider2.jpg";
-import silder1 from "../../../public/headerslider1.jpg";
-import silder3 from "../../../public/headerslider3.jpg";
-import silder4 from "../../../public/headerslider4.jpg";
+import silder2 from "../../assets/headerslider2.jpg";
+import silder1 from "../../assets/headerslider1.jpg";
+import silder3 from "../../assets/headerslider3.jpg";
+import silder4 from "../../assets/headerslider4.jpg";
 
 const slides = [
   {

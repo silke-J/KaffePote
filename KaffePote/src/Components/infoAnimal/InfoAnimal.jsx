@@ -1,13 +1,13 @@
 import styles from "./InfoAnimal.module.css";
-import Clover from "../../../public/Clover.jpg";
-import Coco from "../../../public/Coco.jpg";
-import oreo from "../../../public/oreo.jpg";
-import Pumpkin from "../../../public/Pumpkin.jpg";
-import VanillaWaffles from "../../../public/Vanilla&Waffles.jpg";
-import Neptune from "../../../public/Neptune.jpg";
-import Luna from "../../../public/Luna.jpg";
-import Jellybean from "../../../public/Jellybean.jpg";
-import halo from "../../../public/halo.jpg";
+import Clover from "../../assets/Clover.jpg";
+import Coco from "../../assets/Coco.jpg";
+import oreo from "../../assets/oreo.jpg";
+import Pumpkin from "../../assets/Pumpkin.jpg";
+import VanillaWaffles from "../../assets/Vanilla&Waffles.jpg";
+import Neptune from "../../assets/Neptune.jpg";
+import Luna from "../../assets/Luna.jpg";
+import Jellybean from "../../assets/Jellybean.jpg";
+import halo from "../../assets/halo.jpg";
 
 const InfoAnimal = () => {
   return (

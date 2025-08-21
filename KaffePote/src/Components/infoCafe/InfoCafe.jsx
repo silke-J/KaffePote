@@ -1,4 +1,4 @@
-import cafeInfo from "../../../public/cafeInfo.png";
+import cafeInfo from "../../assets/cafeInfo.png";
 import styles from "./InfoCafe.module.css";
 
 const InfoCafe = () => {
